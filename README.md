@@ -1,3 +1,0 @@
-# valdurist
-Leht Valdurist
-b
