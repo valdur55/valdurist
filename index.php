@@ -2,28 +2,83 @@
 <html lang="et">
 <head>
     <meta charset="UTF-8">
+    <link type="text/css" rel="stylesheet" href="style.css"/>
     <title>Valdurist</title>
 </head>
 <body>
+<!--Kommentaar-->
+<div id="header">
+    <h2>Valdur Kana</h2>
+    <h4>Tutvustav leht</h4>
+</div>
+<div class="top">
+    <a href="gallery.php">Gallerii</a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/valdur55">Valduri Facebook</a>
+</div>
+<div class="right">
+    <img id="image"
+         src="img/valdur.jpg"/>
 
-<h3>Valdur Kana</h3>
-<p>tutvustav leht</p>
+    <ul>
+        <li>Valdur</li>
+        <li>September 19</li>
+        <li>20 aastat vana</li>
+        <li>Male</li>
+        <li>Tartu, Estonia</li>
+        <hr/>
+    </ul>
+    <p>Valdur on noor IT'st ja tehnikast huvitatud mees. Aastal 2011/2012 osales ta noorteprogrammis Entrum, kus
+        ta kuulus projekti nr.13 - "IT-Vabakad".
+        Projektimeeskond toetab Estobuntu e. eestikeelse Linuxi arendamist. Meeskond pidi looma skripti, mis pakuks
+        linuxi kasutajatele lÃ¼hemaid
+        lahendusi esmatarberakenduste paigaldamiseks. Valdur pÃ¤lvis sellel konkursil isikliku arengu eripreemia. Entrum
+        tunnustas teda sihikindluse ja
+        suure arengu eest. Tema tÃ¶Ã¶ oma oskuste arendamisel oli eriti tÃ¤helepanuvÃ¤Ã¤rne ja kiiduvÃ¤Ã¤rt. Kogu programm sai
+        tal Ã¼ksi lÃ¤bi tehtud ning
+        mitmel korral vahetas ta meeskonnaliikmeid, kuid jÃ¤tkas samal ajal oma projektiidee teostamist.</p>
 
-<ul>
-    <li>Valdur</li>
-    <li>September 19</li>
-    <li>20 aastat vana</li>
-    <li>Male</li>
-    <li>Tartu, Estonia</li>
-</ul>
-    <img src="https://scontent-ams2-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/526749_376307962415416_9973869_n.jpg?oh=5b4ca3137bf8295c86dfab0c8249dda9&oe=566B70F6" />
-<p>Valdur on noor IT'st ja tehnikast huvitatud mees. Aastal 2011/2012 osales ta noorteprogrammis Entrum, kus ta kuulus projekti nr.13 - "IT-Vabakad".
-    Projektimeeskond toetab Estobuntu e. eestikeelse Linuxi arendamist. Meeskond pidi looma skripti, mis pakuks linuxi kasutajatele lühemaid
-    lahendusi esmatarberakenduste paigaldamiseks. Valdur pälvis sellel konkursil isikliku arengu eripreemia. Entrum tunnustas teda sihikindluse ja
-    suure arengu eest. Tema töö oma oskuste arendamisel oli eriti tähelepanuväärne ja kiiduväärt. Kogu programm sai tal üksi läbi tehtud ning
-    mitmel korral vahetas ta meeskonnaliikmeid, kuid jätkas samal ajal oma projektiidee teostamist.</p>
+    <p>Nimi Valdur Kana on Eestis haruldane. Sellise nimega vÃµib kohata kuni 4 inimest, kuid on vÃµimalik, et
+        see on ainulaadne.</p>
+    <br/>
 
-
-<a href="mailto:valdur55@gmail.com">Võtke ühendust!</a>
+    <p>Valdur on kÃ¤inud mitmes koolis:</p>
+    <table border="1">
+        <th>Kool</th>
+        <th>Eriala</th>
+        <th>Algusaasta</th>
+        <th>LÃµpuaasta</th>
+        <tr>
+            <td>Tartu KHK</td>
+            <td>Noorem tarkvaraarendaja (veebispetsialist)</td>
+            <td>2015</td>
+            <td>-</td>
+        </tr>
+        <td>Tartu Ãœlikool</td>
+        <td>Informaatika</td>
+        <td>2015</td>
+        <td>2015</td>
+        <tr>
+            <td>Tartu Ãœlikool</td>
+            <td>Arvutitehnika</td>
+            <td>2013</td>
+            <td>2015</td>
+        </tr>
+        <tr>
+            <td>Tartu Tamme GÃ¼mnaasium</td>
+            <td>-</td>
+            <td>2010</td>
+            <td>2013</td>
+        </tr>
+        <tr>
+            <td>OtepÃ¤Ã¤ GÃ¼mnaasium</td>
+            <td>-</td>
+            <td>2001</td>
+            <td>2010</td>
+        </tr>
+    </table>
+</div>
+<div id="footer">
+    <a href="mailto:valdur55@gmail.com">KÃ¼simused saata siia</a>
+</div>
 </body>
 </html>
