@@ -29,6 +29,8 @@
             </td>
         </tr>
     </table>
+    <br/>
+    <br/>
 </div>
 <div id="footer">
     <a href="mailto:valdur55@gmail.com">Küsimused saata siia</a>
