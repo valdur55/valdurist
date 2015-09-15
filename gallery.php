@@ -33,7 +33,7 @@
     <br/>
 </div>
 <div id="footer">
-    <a href="mailto:valdur.kana@khk.ee">E-mail</a>
+    <a href="mailto:valdur.kana@khk.ee">Küsimused saata siia</a>
 </div>
 </body>
 </html>
