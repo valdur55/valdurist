@@ -69,7 +69,7 @@ div {
     text-align: justify;
     white-space: normal;
     line-height: 150%;
-    max-width:97%;
+    max-width: 97%;
 }
 
 .right p::first-letter {
@@ -85,7 +85,14 @@ div {
     list-style-type: circle;
 }
 
-.right table {
+.right ol {
+    font-size: 110%;
+    position: relative;
+    width: 63%;
+    padding-left: 7%;
+}
+
+#school {
     position: relative;
     left: 2%;
     width: 97%;
@@ -103,9 +110,22 @@ div {
     padding-bottom: 1%;
 }
 
+.d {
+    text-align: center;
+}
+
 .rightg img {
     width: 70%;
     cursor: zoom-in;
+}
+
+.typeracer {
+    position: relative;
+    left: 2%;
+    width: 97%;
+    font-size: 110%;
+    border-radius: 2%;
+
 }
 
 #footer {
