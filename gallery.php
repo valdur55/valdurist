@@ -17,15 +17,15 @@
 <div class="rightg">
     <table>
         <tr>
-            <td align="center"><a target="_blank" href="img/valdur1.jpg"><img src="img/valdur1.jpg" alt="Valdur" ;></a>
+            <td align="center"><a target="_blank" href="https://scontent-ams2-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/538789_371930046186541_1805464377_n.jpg?oh=533550b6d0fe2c004ba3b0e31533ec6c&oe=56A1BCE3"><img src="img/valdur1.jpg" alt="Valdur" ;></a>
             </td>
-            <td align="center"><a target="_blank" href="img/valdur2.jpg"><img src="img/valdur2.jpg" alt="Valdur" ;></a>
+            <td align="center"><a target="_blank" href="https://scontent-ams2-1.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/540613_10150608516372142_1096497041_n.jpg?oh=85617ced91b8c0b71ff5ea5c79a8c89e&oe=566A0BE8"><img src="img/valdur2.jpg" alt="Valdur" ;></a>
             </td>
         </tr>
         <tr>
-            <td align="center"><a target="_blank" href="img/valdur3.jpg"><img src="img/valdur3.jpg" alt="Valdur" ;></a>
+            <td align="center"><a target="_blank" href="https://scontent-ams2-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/423363_337245862988293_1857935392_n.jpg?oh=733a36d96e6989cbe1c558ece9fb8983&oe=566D6A01"><img src="img/valdur3.jpg" alt="Valdur" ;></a>
             </td>
-            <td align="center"><a target="_blank" href="img/valdur4.jpg"><img src="img/valdur4.jpg" alt="Valdur" ;></a>
+            <td align="center"><a target="_blank" href="https://scontent-ams2-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/390211_298268603552686_1393108024_n.jpg?oh=9a39d1f6d0fedea8eccca435b2e7b9ad&oe=56707E76"><img src="img/valdur4.jpg" alt="Valdur" ;></a>
             </td>
         </tr>
     </table>
