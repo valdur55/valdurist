@@ -69,7 +69,6 @@ div {
     text-align: justify;
     white-space: normal;
     line-height: 150%;
-    /*Peaks kõik töötama ilma max-width min-width*/
 }
 
 .right p::first-letter {
