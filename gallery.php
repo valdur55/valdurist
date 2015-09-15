@@ -18,6 +18,7 @@
     <table>
         <tr>
             <td align="center"><a target="_blank" href="img/valdur1.jpg"><img src="img/valdur1.jpg" alt="Valdur" ;></a>
+                <object data="https://scontent-ams2-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/538789_371930046186541_1805464377_n.jpg?oh=533550b6d0fe2c004ba3b0e31533ec6c&oe=56A1BCE3" type="image/png">
             </td>
             <td align="center"><a target="_blank" href="img/valdur2.jpg"><img src="img/valdur2.jpg" alt="Valdur" ;></a>
             </td>
