@@ -69,6 +69,7 @@ div {
     text-align: justify;
     white-space: normal;
     line-height: 150%;
+    max-width:97%;
 }
 
 .right p::first-letter {
