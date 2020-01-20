@@ -367,7 +367,7 @@
         </div>
     </div>
     <div id="footer">
-        <a href="mailto:valdur.kana@khk.ee">Kirjutage Valdurile!</a>
+        <a href="mailto:valdur.kana@eesti.ee">Kirjutage Valdurile!</a>
     </div>
 </body>
 </html>
